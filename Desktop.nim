@@ -1,4 +1,4 @@
-import winim/winim/lean
+import winim/lean
 import terminal, strutils
 type
     status* = enum
